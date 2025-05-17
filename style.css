@@ -412,6 +412,7 @@ nav .right button:hover {
   align-items: center;
   gap: 20px;
   overflow-x: hidden;
+  background-color: white !important;
 }
 
 .page2 .heading {
@@ -437,7 +438,7 @@ nav .right button:hover {
   align-items: center;
   gap: 20px;
   padding: 0 50px;
-  background-color: #e0b0ff;
+  background-color: white;
 }
 
 .page2 .line-left .le,.page2 .line-right .le,.line-left1 .le, .line-left2 .le, .line-right1 .le{
@@ -449,19 +450,19 @@ nav .right button:hover {
   border: 3px solid #850785;
   border-radius: 5%;
   padding: 40px;
-  background-color: rgb(236, 173, 255);
+  background-color: rgb(255, 255, 255);
 }
 .page2 .line-left .le img:hover {
   background-color: #ce95fd;
   cursor: pointer;
 }
 .page2 .line-right .le img:hover {
-  background-color: #ce95fd;
+  background-color: white;
   cursor: pointer;
 }
 
 .line-left1 .le img:hover, .line-left2 .le img:hover, .line-right1 .le img:hover{
-  background-color: #ce95fd;
+  background-color: rgb(255, 255, 255);
   cursor: pointer;
 }
 
@@ -487,7 +488,7 @@ nav .right button:hover {
   width: 100%;
   height: 130vh;
   display: flex;
-  background-color: #ce95fd;
+  background-color: white;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -528,6 +529,7 @@ nav .right button:hover {
   border-radius: 5px;
   overflow: hidden;
   background-color: #800080;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .page3 .collections .card img {
   width: 300px;
@@ -699,7 +701,7 @@ footer {
   width: 100%;
   height: 40vh;
   color: white;
-  background-color: #60058a;
+  background-color: #800080;
 }
 
 footer .line1 {

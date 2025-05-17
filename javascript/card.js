@@ -40,7 +40,7 @@ const data= [
      "bathroom" : "2 Bath"
   },
   {   "id": 5,
-     "image" : "https://www.adarshdevelopers.com/blog/wp-content/uploads/2022/08/Banner-Image-6_-Adarsh-Tranqville-Why-Adarsh-Tranqville-is-the-best-choice-for-Villas-for-sale-in-Hennur.jpg",
+     "image" :"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
      "plot" :"Home",
      "price" : "Rs. 70 lac.",
      "title" : "Golden Urban House For Sell",
